@@ -7,6 +7,7 @@ import Technologies from './components/Technologies';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Publications from './components/Publications';
 
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
           <Technologies/>
           <Experience/>
           <Projects/>
+          <Publications/>
           <Education/>
           <Contact/>
         </div>

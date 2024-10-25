@@ -36,6 +36,7 @@ export const PROJECTS = [
     description:
       "To streamline electronic product purchases online. Deliver secure transactions with Full featured shopping cart, Product reviews and ratings, Top products carousel, Product pagination, Product search feature, User profile with orders, Admin product management, Admin user management, Admin Order details page, Mark orders as delivered option, Checkout process (shipping, payment method, etc), PayPal / credit card integration.",
     technologies: ["Django", "React", "Redux", "REST Framework", "JWT authentication", "PayPal API", "Heroku", "PostgreSQL"],
+    githubLink:'https://github.com/tilakpandya/Blisscart'
   },
   {
     title: "Instagram Clone Web Application",
@@ -43,6 +44,7 @@ export const PROJECTS = [
     description:
       "Developed a social media app clone to replicate key social media features. using PHP Laravel with Eloquent relationships, Vue.js, and Laravel Telescope for improved monitoring and debugging. Functional with features like create profile, upload images, send request, like and comment posts.",
     technologies: ["PHP", "Laravel", "Vue.js", "MySql"],
+    githubLink:'#'
   },
   {
     title: "Questcom Online Furniture store",
@@ -50,6 +52,7 @@ export const PROJECTS = [
     description:
       "Create a full-featured eCommerce site for furniture shopping which provides all the eCommerce website facility related to furniture shopping including browsing, selecting, adding to wish list, adding to cart, purchase, registration and etc.",
     technologies: ["HTML", "CSS", "PHP", "MySQL", "MVC", "Javascript", "jQuery","Bootstrap"],
+    githubLink:'https://github.com/tilakpandya/Questecom',
   },
   {
     title: "Face Detection and Recognition",
@@ -57,6 +60,7 @@ export const PROJECTS = [
     description:
       "Implement a prototype which includes features like user registration, recognition, and secure access to private documents for authorized users, with practical applications like phone unlocking and attendance tracking.",
     technologies: ["Python", "Tkinter", "OpenCV"],
+    githubLink:'https://github.com/tilakpandya/Face-Detection-and-Recognition-system-python'
   },
 ];
 
