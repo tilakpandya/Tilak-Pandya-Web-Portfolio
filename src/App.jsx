@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/Navbar';
+import Nav from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Education from './components/Education';
@@ -20,7 +20,7 @@ export default function App() {
       </div>
         
         <div className="container mx-auto px-8">
-          <Navbar/>
+          <Nav/>
           <Hero/>
           <About/>
           <Technologies/>
