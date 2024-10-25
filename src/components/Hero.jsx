@@ -46,7 +46,7 @@ const Hero = () => {
                 initial="hidden"
                 animate="visible">
                     <a 
-                        href="https://drive.google.com/file/d/1mA6FwuvISgJMv3h97EjqVhT_76Uc20DJ/view?usp=sharing" 
+                        href="https://drive.google.com/file/d/1DJ0MmMQ63DS3mlPiin2bryQ3OmSrO5JK/view?usp=sharing" 
                         download="Tilak_Pandya_Resume.pdf" 
                         target="_blank" 
                         rel="noopener noreferrer"
